@@ -16,6 +16,6 @@
 
 ## Dashboard 
 <a href="https://github.com/dkshakya1011/Data_Analysis_Dashboard/blob/main/Screenshot%202025-08-15%20183449.png">View Dashboard<a/>
-<img width="1212" height="550" alt="image" src="https://github.com/user-attachments/assets/5f3d7a5e-cd92-46e5-8ca8-c3f9c54ed34d" />
+<img width="1217" height="568" alt="image" src="https://github.com/user-attachments/assets/d81aad80-b136-4abd-ae33-10ab508f322c" />
 
 
