@@ -14,3 +14,8 @@
 - What is the largest “Away from Target %” for any single executive?
 - Which sales executive generated the most revenue?
 
+## Dashboard 
+<a href="https://github.com/dkshakya1011/Data_Analysis_Dashboard/blob/main/Screenshot%202025-08-15%20183449.png">View Dashboard<a/>
+<img width="1212" height="550" alt="image" src="https://github.com/user-attachments/assets/5f3d7a5e-cd92-46e5-8ca8-c3f9c54ed34d" />
+
+
