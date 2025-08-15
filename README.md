@@ -18,4 +18,14 @@
 <a href="https://github.com/dkshakya1011/Data_Analysis_Dashboard/blob/main/Screenshot%202025-08-15%20183449.png">View Dashboard<a/>
 <img width="1217" height="568" alt="image" src="https://github.com/user-attachments/assets/d81aad80-b136-4abd-ae33-10ab508f322c" />
 
+## Project Insight
+
+- Top Seller → Jagdish Chandra with 389 sales.
+- Lowest Seller → Arvind Sharma with 379 sales (still close to others, so performance gap is small).
+- Best Target Hit % → Janardan Mishra at 71%.
+- Lowest Target Hit % → Shivji Prasad at 60.20%.
+- Closest to Target → Partha Sarathi (54.20% away).
+
+## 
+
 
